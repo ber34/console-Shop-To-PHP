@@ -34,16 +34,6 @@ class Items implements ItemsInterface {
         return $this->item;
     }
 
-    /*
-    public function get(ItemCodeInterface $itemCode): ItemInterface{
-                echo $itemCode;
-                return $this->instand;
-    }
-
-    public function instandTo(ItemInterface $instand ){
-                $this->instand = $instand;
-    }
-    */
     public function empty(): void{
         $this->item = "";
     }
