@@ -7,10 +7,10 @@ use ConsoleShopPHP\ClassApp\Product;
 use ConsoleShopPHP\ClassApp\Items;
 use ConsoleShopPHP\ClassApp\Cash;
 
-use ConsoleShopPHP\Shop\ShopInterface;
-use ConsoleShopPHP\Exception\ProgramsException;
-use ConsoleShopPHP\Items\ItemsInterface;
-use ConsoleShopPHP\Cash\CashInterface;
+use ConsoleShopPHP\appInterface\Shop\ShopInterface;
+use ConsoleShopPHP\appInterface\Exception\ProgramsException;
+use ConsoleShopPHP\appInterface\Items\ItemsInterface;
+use ConsoleShopPHP\appInterface\Cash\CashInterface;
 
 
 try{
