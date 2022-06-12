@@ -2,7 +2,7 @@
 
  namespace ConsoleShopPHP\ClassApp;
 
- use ConsoleShopPHP\Cash\CashInterface;
+ use ConsoleShopPHP\appInterface\Cash\CashInterface;
 
 class Cash implements CashInterface {
 
