@@ -1,6 +1,6 @@
 <?php
 
-namespace ConsoleShopPHP\Items;
+namespace ConsoleShopPHP\appInterface\Items;
 
 
 interface ItemsInterface
