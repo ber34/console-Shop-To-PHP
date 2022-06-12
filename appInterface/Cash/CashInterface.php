@@ -1,6 +1,6 @@
 <?php
 
-namespace ConsoleShopPHP\Cash;
+namespace ConsoleShopPHP\appInterface\Cash;
 
 
 interface CashInterface
