@@ -1,6 +1,6 @@
 <?php
 
-namespace ConsoleShopPHP\Exception;
+namespace ConsoleShopPHP\appInterface\Exception;
 
 use RuntimeException;
 
