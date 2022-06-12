@@ -1,6 +1,6 @@
 <?php
 
-namespace ConsoleShopPHP\Shop;
+namespace ConsoleShopPHP\appInterface\Shop;
 
 
 interface ShopInterface
