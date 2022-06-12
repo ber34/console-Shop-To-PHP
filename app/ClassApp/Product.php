@@ -2,7 +2,7 @@
 
  namespace ConsoleShopPHP\ClassApp;
 
- use ConsoleShopPHP\Shop\ShopInterface;
+ use ConsoleShopPHP\appInterface\Shop\ShopInterface;
 
 class Product implements ShopInterface {
 
