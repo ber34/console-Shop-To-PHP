@@ -2,7 +2,7 @@
  
  namespace ConsoleShopPHP\ClassApp;
 
- use ConsoleShopPHP\Items\ItemsInterface;
+ use ConsoleShopPHP\appInterface\Items\ItemsInterface;
 
 class Items implements ItemsInterface {
     
