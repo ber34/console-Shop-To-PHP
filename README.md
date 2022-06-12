@@ -4,6 +4,8 @@ Simple shopping store simulator in console
 
 vendor and autoload
 
+Console: 
+
 $ php composer.phar update
 
 $ php index.php
